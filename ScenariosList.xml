@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RCList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RCs>
+		<RC Path="https://raw.githubusercontent.com/scrabble-testcases/rc/master/Danil_RemoteConstants.json"/>
+	</RCs>
+</RCList>
